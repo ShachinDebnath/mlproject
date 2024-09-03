@@ -3,4 +3,4 @@ scikit-learn
 pandas
 numpy
 matplotlib
--e .
+-e . # This automativly triggeres setup.py 
