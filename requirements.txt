@@ -2,5 +2,7 @@ Flask
 scikit-learn
 pandas
 numpy
-matplotlib
--e . # This automativly triggeres setup.py 
+matplotlib 
+seaborn
+catboost
+xgboost
